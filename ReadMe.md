@@ -5,26 +5,32 @@
 
 可以使用telnet连接服务器，也可以用我提供的客户端。
 
+
+
+##UML
+![uml](https://github.com/ksharpdabu/ChatRoom/blob/master/src/uml/uml.jpg)
+
+
 ###聊天室命令
 
-1.登录（切换登录帐号） 
+1.登录（切换登录帐号）  
 user  dabu
 
 
-2.查看所有在线用户 
+2.查看所有在线用户  
 list
 
 
-3.发送消息给所有用户 
+3.发送消息给所有用户  
 send  哈哈哈
 
-4.发送私信给指定用户 
+4.发送私信给指定用户  
 priv  dabu:玩游戏去
 
-5.退出 
+5.退出  
 exit
 
-6.帮助 
+6.帮助  
 help
 
 
