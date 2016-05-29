@@ -3,7 +3,7 @@
 
 
 
-可以使用telnet连接服务器，也可以用我提供的客户端。
+可以使用telnet连接服务器，也可以用我提供的客户端。见[《构建一个robust的java 服务器（部分翻译+附上自己写的客户端）》](http://www.dabu.info/build-an-robust-java-chatroom-server.html)
 
 
 
