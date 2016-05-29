@@ -22,6 +22,7 @@ priv  dabu:玩游戏去
 5.退出
 exit
 
+
 6.帮助
 help
 
